@@ -49,10 +49,6 @@ Body:
 }
 ```
 
-## Security Through HTTPS
-
-Using HTTPS ensures that communication between your ATS and our server is encrypted. This means that data transmitted, such as the email addresses and names of applicants, is secure during transit. HTTPS offers encryption, integrity, and authentication, making it difficult for third parties to intercept or alter the data and ensuring communication with the correct server.
-
 ### Mandatory Use of HTTPS
 
 HTTPS is mandatory for this webhook to ensure the security of the transmitted data. By enforcing HTTPS, we ensure that your data remains safe and protected during communication. Make sure your API key remains confidential and is only shared with authorized individuals and systems.
