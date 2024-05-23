@@ -14,8 +14,7 @@ POST https://cx.fanployer.com/webhook/{job_id}/candidate?api-key={your_api_key}
 - `name` (string): The applicant's name.
 - `status` (enum): The applicant's status. Possible values:
   - `new`: New applicant.
-  - `first response`: First response to the applicant.
-  - `invited for interview`: Applicant invited for an interview.
+  - `interview-scheduled`: Applicant invited for an interview.
   - `rejected`: Applicant rejected.
   - `hired`: Applicant hired.
 
