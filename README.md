@@ -2,7 +2,7 @@
 
 ## Endpoint
 ```
-POST https://cx.fanployer.com/webhook/{vacatureId}/candidate?api-key={your_api_key}
+POST https://cx.fanployer.com/webhook/{job_id}/candidate?api-key={your_api_key}
 ```
 
 ## Headers
