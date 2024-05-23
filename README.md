@@ -1,4 +1,4 @@
-# Webhook Documentation: Communicating Applicant Information
+# Webhook Documentation: Communicating Candidate Information
 
 ## Endpoint
 ```
